@@ -8,7 +8,7 @@ This is a placeholder until I feel like having a better description of my ongoin
 - **[livenearcollege.com](https://www.livenearcollege.com/)** - A website where students can find local housing near college campuses while landlords can list their rentals.
 - **pickdaisy.com**       - An app allowing individuals to have their paychecks advanced on a daily, rather than monthly, basis.
 
-### Exercises
+### Experiments
 - **Clojure(script)**
 - **Elixir**
 - **Rust**
